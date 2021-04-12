@@ -1,0 +1,21 @@
+/*menu*/
+.ui-menu { 
+	width: 150px; 
+}
+
+/*tooltips-form part*/
+label {
+   display: inline-block; width: 5em;
+}
+fieldset{
+	border: 1px solid black;
+}
+fieldset div {
+    margin-bottom: 2em;
+}
+fieldset .help {
+    display: inline-block;
+}
+.ui-tooltip {
+    width: 210px;
+}
